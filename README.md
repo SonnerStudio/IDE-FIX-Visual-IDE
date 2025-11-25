@@ -8,6 +8,11 @@
 
 *Software trifft Kunst • Programmieren wird magisch*
 
+---
+
+**Sprachen:** 
+🇩🇪 **Deutsch** | 🇬🇧 [English](README.en.md) | 🇳🇱 [Nederlands](README.nl.md)
+
 </div>
 
 ---
