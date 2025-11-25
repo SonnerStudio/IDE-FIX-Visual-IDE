@@ -173,8 +173,7 @@ Der Zauberhut ist mehr als nur ein UI-Element – er ist das **Symbol für die P
 ## 📬 Kontakt
 
 - **Repository**: [github.com/SonnerStudio/IDE-FIX-Visual-IDE](https://github.com/SonnerStudio/IDE-FIX-Visual-IDE)
-- **Entwicklergemeinschaft**: dev-team@sonnerstudio.com
-- **Allgemeine Anfragen**: info@sonnerstudio.com
+- **Entwicklergemeinschaft und allegemeine Anfragen**: hbcomputer@freenet.de
 
 ---
 
