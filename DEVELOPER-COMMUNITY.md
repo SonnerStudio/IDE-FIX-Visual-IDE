@@ -19,7 +19,7 @@ Dies ist **kein klassisches Open-Source-Projekt** mit einfachen Code-Contributio
 Als Teil der Entwicklergemeinschaft profitierst du direkt vom Erfolg:
 - **Umsatzbeteiligung** aus Premium-Lizenzen (Pro/Teams/Enterprise)
 - **Faire Aufteilung** basierend auf Beitrag und Verantwortung
-- **Transparente Metriken** für Erfolgsmes sun
+- **Transparente Metriken** für Erfolgsmessung
 - **Langfristige Partnerschaft** statt einmaliger Beiträge
 
 ## 🔧 Gesucht: Expertise in
@@ -117,7 +117,7 @@ Als Entwickler in der Gemeinschaft:
 ## ❓ FAQ
 
 **Q: Muss ich Vollzeit arbeiten?**  
-A: Nein! Viele in unserem Team arbeiten 10-20 Stunden/Woche.
+A: Nein! In unserem Team kann man auch 10-20 Stunden/Woche arbeiten.
 
 **Q: Kann ich remote arbeiten?**  
 A: Absolut! Wir sind komplett remote-first.
@@ -133,10 +133,12 @@ A: Wir suchen primär langfristige Partner, aber diskutieren gerne individuelle 
 
 ## 📧 Kontakt
 
-**E-Mail**: dev-team@sonnerstudio.com  
+**E-Mail**: hbcomputer@freenet.de  
 **Betreff**: "IDE-FIX Entwicklergemeinschaft - [Dein Name]"
 
-Wir freuen uns auf deine Nachricht! 🎩✨
+Ich freue mich auf deine Nachricht! 🎩✨
+
+Jan Friske
 
 ---
 
