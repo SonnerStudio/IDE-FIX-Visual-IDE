@@ -153,7 +153,7 @@ Kontaktiere uns für ein unverbindliches Gespräch:
 
 SonnerStudio ist ein interdisziplinäres Software- und Kunststudio an der Schnittstelle von Technologie, Kunst und Design. Wir entwickeln experimentelle Tools, digitale Experiences und interaktive Systeme, die Technologie in poetische, visuelle Form übersetzen.
 
-**IDE-FIX** ist unser Flagship-Projekt – eine IDE, die nicht nur funktioniert, sondern inspiriert.
+**IDE-FIX** ist eines unserer Flagship-Projekte – eine IDE, die nicht nur funktioniert, sondern inspiriert.
 
 ### Philosophie
 *"Wir wollten ein Werkzeug schaffen, das die Magie des Programmierens sichtbar macht. IDE-FIX soll nicht nur funktionieren – es soll inspirieren."*
