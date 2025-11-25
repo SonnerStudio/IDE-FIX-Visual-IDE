@@ -56,7 +56,7 @@ Als Teil der Entwicklergemeinschaft profitierst du direkt vom Erfolg:
 ## 💼 Wie funktioniert die Zusammenarbeit?
 
 ### 1. Erstkontakt
-Schreibe uns an **dev-team@sonnerstudio.com** mit:
+Schreibe uns an **hbcomputer@freenet.de** mit:
 - Kurzer Vorstellung
 - Relevante Expertise
 - Verfügbarer Zeitumfang (Stunden/Woche)
