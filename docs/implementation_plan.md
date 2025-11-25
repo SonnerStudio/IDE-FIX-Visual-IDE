@@ -51,10 +51,39 @@ IDE-FIX is a revolutionary full-featured IDE that allows developers to:
 > 
 > ✅ **Character Based on Artwork**:
 > - **Appearance**: Friendly digital dog (white, playful character)
-> - **Personality**: Playful, helpful, encouraging
+> - **Personality**: Playful, helpful,encouraging
 > - **Animation**: Yes - interactive animations with various expressions
 > - **Function**: AI-powered coding assistant with contextual tips
 > - **Interactions**: Reacts to user actions, celebrates successes, helps with errors
+
+> [!NOTE]
+> **Licensing Model - Dual Licensing (Open Core)**
+> 
+> ✅ **Confirmed Licensing Strategy**:
+> - **CORE Features**: MIT License (Open Source, free)
+> - **PREMIUM Features**: Commercial License (Pro/Teams/Enterprise)
+> 
+> **Core Edition (MIT - Free)**:
+> - Complete code editor, multi-language LSP, visual canvas
+> - Basic debugging, terminal, Git, file explorer
+> - Magic Hat, basic visual logic blocks
+> - Fix mascot (basic AI - offline)
+> 
+> **Premium Edition (Commercial)**:
+> - Fix Pro (GPT-4 integration)
+> - Cloud workspace synchronization
+> - Team collaboration (Live Share)
+> - Premium themes & extensions
+> - Priority support
+> - Advanced debugging & Git features
+> - Enterprise features (SSO, on-premise)
+> 
+> **Pricing Model**:
+> - Pro: $9.99/month or $99/year
+> - Teams: $19.99/user/month
+> - Enterprise: Custom pricing
+> 
+> See: [LICENSE](file:///c:/Dev/Repos/SonnerStudio/IDE-FIX%20Visual-IDE/LICENSE) and [LICENSE-COMMERCIAL](file:///c:/Dev/Repos/SonnerStudio/IDE-FIX%20Visual-IDE/LICENSE-COMMERCIAL)
 
 ## Proposed Changes
 

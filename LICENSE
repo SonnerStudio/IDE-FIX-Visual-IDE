@@ -1,6 +1,14 @@
-MIT License
+IDE-FIX Visual IDE - Open Source License (Core Edition)
 
 Copyright (c) 2025 SonnerStudio
+
+This project uses a Dual Licensing model:
+- The CORE functionality is licensed under the MIT License (this file)
+- PREMIUM features are licensed under a separate Commercial License (see LICENSE-COMMERCIAL)
+
+===============================================================================
+MIT License (Core Edition)
+===============================================================================
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +27,33 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+===============================================================================
+CORE Features (MIT Licensed - Free & Open Source):
+===============================================================================
+- Complete code editor (Monaco Editor integration)
+- Multi-language support via LSP (Python, JavaScript, TypeScript, Mojo, etc.)
+- Visual Canvas Editor (Custom Canvas)
+- Basic debugging functionality
+- Integrated terminal
+- Git integration (basic)
+- File explorer
+- Magic Hat component system
+- Basic visual logic blocks
+- Fix mascot (basic AI assistance - offline)
+- Community extensions support
+
+===============================================================================
+PREMIUM Features (Commercial License Required):
+===============================================================================
+See LICENSE-COMMERCIAL for details on premium features including:
+- Fix Pro (AI-powered with GPT-4 integration)
+- Cloud workspace synchronization
+- Team collaboration (Live Share)
+- Premium themes and extensions
+- Priority support
+- Advanced debugging tools
+- Enhanced Git features
+- Enterprise features
+
+For licensing inquiries: licensing@sonnerstudio.com
