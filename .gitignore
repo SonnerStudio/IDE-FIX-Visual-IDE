@@ -71,6 +71,9 @@ desktop.ini
 .idefix/
 .gemini/
 
+# Source code (kept local only)
+src/
+
 # Build artifacts
 *.js.map
 *.css.map
