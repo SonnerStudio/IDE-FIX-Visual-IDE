@@ -132,7 +132,7 @@ Wir bauen nicht nur ein Produkt – wir bauen eine **Entwicklergemeinschaft**, d
 
 ### 📧 Interesse?
 Kontaktiere uns für ein unverbindliches Gespräch:
-- **E-Mail**: dev-team@sonnerstudio.com
+- **E-Mail**: hbcomputer@freenet.de
 - **Betreff**: "IDE-FIX Entwicklergemeinschaft"
 
 *Wir besprechen individuell, wie du Teil des Teams werden und am Projekt partizipieren kannst.*
